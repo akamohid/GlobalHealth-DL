@@ -176,13 +176,9 @@ Exported PDF snapshots are available in `visuals/` for quick reference without P
 
 ## 👥 Team
 
-**DS 312 — Data Warehousing & Business Intelligence | Term Project**
-
-| Name | Student ID |
-|---|---|
-| Mohid Arshad | 455977 |
-| Tahir Mehmood | 458593 |
-| Mohammad Hasnain | 462247 |
+- **Mohid Arshad** — [GitHub](https://github.com/akamohid) | [LinkedIn](https://www.linkedin.com/in/akamohid/)  
+- **Tahir Mehmood** — [LinkedIn](https://www.linkedin.com/in/tahir-mehmood-622a412a0/)
+- **Mohammad Hasnain** — [LinkedIn](https://www.linkedin.com/in/mohammad-hasnain-3670452a7/)  
 
 ---
 
