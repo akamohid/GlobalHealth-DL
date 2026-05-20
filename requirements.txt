@@ -1,0 +1,14 @@
+# GlobalHealth-DL — Requirements
+# This project is SQL-based; no Python runtime is required for the core pipeline.
+# The following are optional tools for environment setup or scripting utilities.
+
+# ── SQL Server Connectivity (optional Python scripts) ──────────────────────────
+pyodbc>=4.0.39                  # ODBC driver interface for SQL Server
+sqlalchemy>=2.0.0               # ORM / connection abstraction (optional)
+
+# ── Data Validation / Exploration (optional) ──────────────────────────────────
+pandas>=2.0.0                   # DataFrame-based CSV inspection
+numpy>=1.26.0                   # Numerical support
+
+# ── Power BI / Reporting (optional export scripts) ────────────────────────────
+openpyxl>=3.1.0                 # Excel export from SQL results

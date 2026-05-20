@@ -1,0 +1,33 @@
+# ── OS ─────────────────────────────────────────────────────────────────────────
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ── SQL Server ─────────────────────────────────────────────────────────────────
+*.mdf
+*.ldf
+*.bak
+*.trn
+
+# ── Power BI ───────────────────────────────────────────────────────────────────
+# Uncomment the line below if you don't want to track the .pbix file
+# *.pbix
+
+# ── Python (if any utility scripts are added later) ───────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# ── Editor / IDE ───────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ── Logs & temp ────────────────────────────────────────────────────────────────
+*.log
+*.tmp
+~$*
